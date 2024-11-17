@@ -6,7 +6,8 @@ clc;
 % Frequency of operation = 77GHz
 % Max Range = 200m
 % Range Resolution = 1 m
-% Max Velocity = 100 m/s
+% Min Velocity = -70 m/s
+% Max Velocity = 70 m/s
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 max_range = 200;
 
